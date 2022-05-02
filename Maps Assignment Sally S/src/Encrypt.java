@@ -1,12 +1,9 @@
 public class Encrypt {
-    String m1;
-    int s1;
+    String message;
+    int shift;
 
-    Encrypt(String m1, int s1){
-        this.m1 = m1;
-        this.s1 = s1;
+    Encrypt(String message, int shift){
+        this.message;
+        this.shift;
     }
-
-
-
 }

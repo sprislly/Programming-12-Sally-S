@@ -1,4 +1,3 @@
-class FaceCard {
-
+public class FaceCard {
 
 }
