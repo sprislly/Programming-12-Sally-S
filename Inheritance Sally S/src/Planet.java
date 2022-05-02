@@ -31,6 +31,14 @@ public class Planet {
         return moons;
     }
 
+    @Override
+    public String toString() {
+        return "Planet{" +
+                "orbitTime=" + orbitTime +
+                ", designation='" + designation + '\'' +
+                ", moons=" + moons +
+                '}';
+    }
 }
 
 /* ulti
