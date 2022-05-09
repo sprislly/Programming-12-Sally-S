@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6003c610-3642-4581-b316-1f9547ef1701" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/Programming-12-Sally-S.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance Sally/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance Sally/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance Sally/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance Sally/Inheritance Sally.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance Sally/src/GasPlanet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance Sally/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance Sally/src/Moon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance Sally/src/Planet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance Sally/src/RockPlanet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module 1 Assignment Sally/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Polymorphism Class 3/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Polymorphism Class 3/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Polymorphism Class 3/src/Motorcycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Polymorphism Class 3/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Polymorphism Class 3/src/SmallerCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Polymorphism Class 3/src/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Polymorphism Class 3/src/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testing Inheritance Problems/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testing Inheritance Problems/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testing Inheritance Problems/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testing Inheritance Problems/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testing Inheritance Problems/Testing Inheritance Problems.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testing Inheritance Problems/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testing Inheritance Problems/src/X.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testing Inheritance Problems/src/Y.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testing Inheritance Problems/src/Z.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testing/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testing/src/X.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testing/src/Y.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testing/src/Z.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="25AHhmBpDozKvZ9g5cBpXh29flJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6003c610-3642-4581-b316-1f9547ef1701" name="Changes" comment="" />
+      <created>1644963091714</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644963091714</updated>
+      <workItem from="1644963093239" duration="137000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

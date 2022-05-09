@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="25bb414f-7468-46f2-878b-2661c9a47b9a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../BFS Sally/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BFS Sally/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BFS Sally/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BFS Sally/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BFS Sally/BFS Sally.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BFS Sally/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BFS Sally/src/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BFS Sally/src/tree" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fibonacci Recursive Sally/Fibonacci Recursive Sally.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fibonacci Recursive Sally/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance Sally S.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maps Assignment Sally S/Maps Assignment Sally S.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sally Review Program/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sally Review Program/Sally Review Program.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sally Review Program/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sally Review Program/src/Question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sally Review Program/src/Quiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sorting Homework Sally/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sorting Homework Sally/src/Merger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Towers of Hanoi Sally/Towers of Hanoi Sally.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Towers of Hanoi Sally/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Deck of Cards Sally/src/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Deck of Cards Sally/src/Card.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Deck of Cards Sally/src/FaceCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Deck of Cards Sally/src/FaceCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Deck of Cards Sally/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Deck of Cards Sally/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Deck of Cards Sally/src/Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Deck of Cards Sally/src/Numbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GasPlanet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GasPlanet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Moon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Moon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Planet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Planet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Maps Assignment Sally S/src/Decrypt.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Maps Assignment Sally S/src/Decrypt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Maps Assignment Sally S/src/Encrypt.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Maps Assignment Sally S/src/Encrypt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Maps Assignment Sally S/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Maps Assignment Sally S/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Review Program Sally S/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Review Program Sally S/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Review Program Sally S/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Review Program Sally S/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Review Program Sally S/.idea/modules.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.jdks/openjdk-17.0.2/lib/src.zip!/java.base/java/lang/Object.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="26ASUFzolHSvni2oSezHhjkGk2G" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enabled" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25bb414f-7468-46f2-878b-2661c9a47b9a" name="Changes" comment="" />
+      <created>1646864913661</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646864913661</updated>
+      <workItem from="1646864914814" duration="1664000" />
+      <workItem from="1646952564818" duration="890000" />
+      <workItem from="1647035331803" duration="42000" />
+      <workItem from="1647038487897" duration="714000" />
+      <workItem from="1650490135566" duration="152000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
