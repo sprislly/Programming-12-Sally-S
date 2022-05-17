@@ -19,18 +19,3 @@ public class Main {
         // instantiate with for loop up to 14, or write it all out
     }
 }
-/*
-ultimate
-nap
-math
-onenote
-sleep
-review
-github
-kids shield
-inheritance
-date
-v v v v v
-module 1
-deck
- */
