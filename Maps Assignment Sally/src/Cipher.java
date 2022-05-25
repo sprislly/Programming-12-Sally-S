@@ -6,11 +6,18 @@ public class Cipher {
         this.message = message;
         this.shift = shift;
     }
+    //USE MAPS, split(nothing) = splits every term and puts it into the list
 
     public String Encrypt(){
+        shift;
         return "";
     }
     public String Decrypt(){
+        - shift;
         return "";
     }
 }
+
+
+
+

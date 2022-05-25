@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38914334-d026-4d27-a0d0-64df679fc668" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Decrypt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Decrypt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Encrypt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Encrypt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BFS Sally/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BFS Sally/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BFS Sally/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GUIintro/src/main/java/com/example/guiintro/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GUIintro/src/main/java/com/example/guiintro/HelloApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GUIintro/src/main/resources/com/example/guiintro/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../GUIintro/src/main/resources/com/example/guiintro/hello-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Maps Assignment Sally/src/Cipher.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Maps Assignment Sally/src/Cipher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sorting Homework Sally/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Sorting Homework Sally/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +54,7 @@
       <workItem from="1648676585642" duration="934000" />
       <workItem from="1651701120781" duration="8000" />
       <workItem from="1652216908734" duration="687000" />
+      <workItem from="1653515801604" duration="4000" />
     </task>
     <servers />
   </component>
