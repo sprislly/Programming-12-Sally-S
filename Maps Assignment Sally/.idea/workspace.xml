@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1d866a5-cff8-414e-b988-bbfb0b03f50f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Maps Assignment Sally/src/Cipher.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Maps Assignment Sally/src/Cipher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maps Assignment Sally/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Maps Assignment Sally/src/Main.java" afterDir="false" />
+    <list default="true" id="31452c23-1c62-4541-9034-5fbca6af5745" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Deck of Cards Sally/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Deck of Cards Sally/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maps Assignment Sally.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cipher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,7 +22,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -24,7 +32,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="25l3hGQAI56mPJqfQ5tRXO9Uf8a" />
+  <component name="ProjectId" id="28zSpg7OBnhKBGbmbvrSqcJGnPo" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -33,46 +41,31 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="OverrideImplement.combined" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-  </component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Deck of Cards Sally" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Main" />
-      </list>
-    </recent_temporary>
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Programming-12-Sally/BFS Sally" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c1d866a5-cff8-414e-b988-bbfb0b03f50f" name="Changes" comment="" />
-      <created>1646087965678</created>
+      <changelist id="31452c23-1c62-4541-9034-5fbca6af5745" name="Changes" comment="" />
+      <created>1652218108120</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1646087965678</updated>
-      <workItem from="1646087966827" duration="1590000" />
-      <workItem from="1646172291025" duration="2541000" />
-      <workItem from="1646257641279" duration="4042000" />
-      <workItem from="1646345903230" duration="1928000" />
-      <workItem from="1646430513183" duration="3086000" />
-      <workItem from="1648675541857" duration="2207000" />
-      <workItem from="1649278503859" duration="3164000" />
-      <workItem from="1650488716468" duration="349000" />
-      <workItem from="1650489087051" duration="15000" />
-      <workItem from="1650491460697" duration="621000" />
-      <workItem from="1652303636645" duration="179000" />
-      <workItem from="1652303870778" duration="779000" />
-      <workItem from="1653943818771" duration="15000" />
+      <updated>1652218108120</updated>
+      <workItem from="1652218109281" duration="1429000" />
+      <workItem from="1653427064205" duration="2769000" />
+      <workItem from="1653515851705" duration="220000" />
+      <workItem from="1653601159354" duration="1448000" />
+      <workItem from="1653943674466" duration="738000" />
+      <workItem from="1654030120793" duration="612000" />
+      <workItem from="1654116584193" duration="2572000" />
+      <workItem from="1654204749091" duration="556000" />
     </task>
     <servers />
   </component>
