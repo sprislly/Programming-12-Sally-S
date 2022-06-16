@@ -20,3 +20,17 @@ public class HelloApplication extends Application {
         launch();
     }
 }
+
+/*
+make the gridder to rotate to the right
+files and database
+bfs
+wathc the vids set up the gui so I can code the buttons
+set up the different windows
+code the buttons, to move between different windows
+code the user database, be able to add to the database and check for the user
+code the buttons to save that
+code the book list
+code the buttons to be able to put book in the cart and to look at the book
+code the cart to check out the book, put the book in a list of checked out books in the user profile
+ */
