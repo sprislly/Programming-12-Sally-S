@@ -1,6 +1,6 @@
 module Databses {
     requires derby;
-    requires derbyclient;
+    requires java.sql;
 
 
 }
